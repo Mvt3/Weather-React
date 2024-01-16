@@ -15,5 +15,11 @@ Live here: https://mvt3.github.io/Weather-React/
 </p>
 
 
-![Ejemplo GIF](/Weather-React/weatherApp.gif)
+ <h2>  How works?  </h2>
+ <p> 
+It's as simple as entering the name of the city you want to check, and you're done.</p>
+
+ 
+
+![Ejemplo GIF](./weatherApp.gif)
 
