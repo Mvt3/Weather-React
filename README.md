@@ -15,5 +15,5 @@ Live here: https://mvt3.github.io/Weather-React/
 </p>
 
 
-![Ejemplo GIF](./Weather-React/weatherApp.gif)
+![Ejemplo GIF](/Weather-React/weatherApp.gif)
 
