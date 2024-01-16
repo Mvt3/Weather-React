@@ -3,8 +3,9 @@ React Weather App
 
 "Simple application to check the weather in any city around the world. Thanks to OpenWeatherMap for providing the API to develop this app."
 
-Live here: 
-<br/>
+Live here: https://mvt3.github.io/Weather-React/
+
+
 
 ### Skills used
 
