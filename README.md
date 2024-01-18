@@ -15,7 +15,7 @@ Live here: https://mvt3.github.io/Weather-React/
 </p>
 
 
- <h2>  How works?  </h2>
+ <h2>  How it works?  </h2>
  <p> 
 It's as simple as entering the name of the city you want to check, and you're done.</p>
 
